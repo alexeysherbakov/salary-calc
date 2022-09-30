@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/.vs/ConsoleApplication2/v17
+/ConsoleApplication2/x64
+/x64
